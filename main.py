@@ -53,4 +53,5 @@ if __name__ == '__main__':
     print('time with ProcessPoolExecutor: ', stop-start)
 
 
-#
+#regular time:  33.81510782241821
+#time with ProcessPoolExecutor:  7.940021514892578
